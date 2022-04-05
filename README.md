@@ -1,6 +1,6 @@
 
   <h1 align="center">Olá 👋, Eu sou Gustavo Melo</h1>
-  <h3 align="center">Sou dev Front VueJS e ReactJs</h3>
+  <h3 align="center">Sou Dev Front VueJS e ReactJs</h3>
 
   <h3 align="left">Minhas redes:</h3>
   <p align="left">
