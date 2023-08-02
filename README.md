@@ -2,23 +2,6 @@
   <h1 align="center">Hello 👋, I'm Gustavo Melo</h1>
   <h3 align="center">I'm Frontend Developer 👨‍💻</h3>
 
-  <h3 align="left">Minhas redes:</h3>
-  <p align="left">
-    <a
-      href="https://linkedin.com/in/gumeelo"
-      target="blank"
-    >
-      <img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="gumeelo"
-        height="30"
-        width="40"
-      />
-    </a>
-    
-  </p>
-
   <h3 align="left">Meu conhecimento:</h3>
   <p align="left">
   <a
@@ -129,3 +112,18 @@
         height="40"
       /> </a> 
 </p>
+
+  <h3 align="left">My Networks:</h3>
+  <p align="left">
+    <a
+      href="https://linkedin.com/in/gumeelo"
+      target="blank"
+    >
+      <img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="gumeelo"
+        height="30"
+        width="40"
+      />
+    </a>
