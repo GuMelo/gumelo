@@ -2,7 +2,7 @@
   <h1 align="center">Hello 👋, I'm Gustavo Melo</h1>
   <h3 align="center">I'm Frontend Developer 👨‍💻</h3>
 
-  <h3 align="left">Meu conhecimento:</h3>
+  <h3 align="left">My knowledge:</h3>
   <p align="left">
   <a
       href="https://vuejs.org/"
