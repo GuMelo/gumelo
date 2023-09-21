@@ -1,6 +1,24 @@
 
-  <h1 align="center">Hello 👋, I'm Gustavo Melo</h1>
+  <h2 align="center">Hello 👋, I'm Gustavo Melo</h2>
   <h3 align="center">I'm Frontend Developer 👨‍💻</h3>
+
+  👋 Developer since 2015, with a Frontend focus, holding a degree in Systems Analysis and Development, and a background in Industrial Informatics. Specialized in:
+
+    • VueJS - Vuex - Pinia - Vite
+    • ReactJS - Redux - ContextAPI
+    • Tailwind CSS - Styled Components - PostCSS - Sass
+    • PostgreSQL - GraphQL - RestAPI - JSON
+    • Javascript - Typescript
+    • SCRUM - Kanban
+
+🌟 Highlights:
+
+    • Emphasis on collaboration and empathy to foster a positive environment
+    • Ongoing commitment to learning and innovation
+
+🚀 Actually:
+
+    • Studying Testing with Jest and Cypress
 
   <h3 align="left">My knowledge:</h3>
   <p align="left">
