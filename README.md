@@ -10,6 +10,7 @@
     • PostgreSQL - GraphQL - RestAPI - JSON
     • Javascript - Typescript
     • SCRUM - Kanban - GIT
+    • Retool (low-code)
 
 🌟 Highlights:
 
