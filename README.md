@@ -9,7 +9,7 @@
     • Tailwind CSS - Styled Components - PostCSS - Sass
     • PostgreSQL - GraphQL - RestAPI - JSON
     • Javascript - Typescript
-    • SCRUM - Kanban
+    • SCRUM - Kanban - GIT
 
 🌟 Highlights:
 
